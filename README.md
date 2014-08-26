@@ -13,6 +13,13 @@
 
     $ ghi jb55/npmrun
 
+## Example
+
+```bash
+$ npm install --save-dev component
+$ npmrun component install some/component
+```
+
 ## License
 
   The MIT License (MIT)
