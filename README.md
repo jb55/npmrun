@@ -13,6 +13,10 @@
 
     $ ghi jb55/npmrun
 
+  Or with curl
+
+    $ curl https://raw.githubusercontent.com/jb55/npmrun/master/npmrun > ~/bin/npmrun && chmod +x ~/bin/npmrun
+
 ## Example
 
 ```bash
