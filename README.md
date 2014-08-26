@@ -13,7 +13,7 @@
 
     $ ghi jb55/npmrun
   
-  Or with [bpkg](https://github.com/stephenmathieson/gh)
+  Or with [bpkg](https://github.com/bpkg/bpkg)
     
     $ bpkg install jb55/npmrun -g
 
